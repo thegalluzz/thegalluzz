@@ -1,5 +1,5 @@
 # Hello There! 👋
 
-I’m Gabriele Galluzzo, an Automation Developer with a background in Digital Marketing.
+I’m Gabriele Galluzzo, a Software Developer with a background in Marketing Automation and Direct Response Digital Marketing
 
 
